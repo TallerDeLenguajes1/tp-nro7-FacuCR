@@ -1,0 +1,7 @@
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\obj\Debug\Administracion_Personal.csprojAssemblyReference.cache
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\obj\Debug\Administracion_Personal.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\bin\Debug\Administracion_Personal.exe.config
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\bin\Debug\Administracion_Personal.exe
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\bin\Debug\Administracion_Personal.pdb
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\obj\Debug\Administracion_Personal.exe
+C:\Users\alfre\Desktop\Repositorio\tp-nro7-FacuCR\TP7_Listas\Administracion_Personal\obj\Debug\Administracion_Personal.pdb
